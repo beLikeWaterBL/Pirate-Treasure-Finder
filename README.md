@@ -1,2 +1,7 @@
 # Pirate-Treasure-Finder
 AI model using Python
+
+
+  This project is an AI model trained to find a "treasure" square on a 2D map. The model was trained using the q-learning algorithm. A lot of the boiler plate code for setting up the actual model was given. I developed the training function which utilized the prebuilt classes for the maze and experience classes. The main point of my code was implementing the core classes to create an optimized training routine. I made the loop for the training process that updated the quality values for upcoming decisions. The testing of the model was also provided which had the model perform playthroughs of the maze and checked for completion.
+
+  The role of computer scientists have begun to change with the implementation of AI into the field. A computer scientist used to be the one to figure out the transformation of data to a form that worked better for an end user. This was through all aspects of the technology, from the kernal, to the high level applications we have today. The goal is the same, but with a helpful tool. The computer scientist still performs pretty much the same task, but acts in moe ways as a compliance technician rather than actual coder. AI can help with a lot of the tedious tasks scientist used to have to do, but now auditing the AI code is a larger part of the job.  You still approach the problem in the same manner, first understanding the problem, then planning a solution. Ethics also remain the same, in that you value the security of your end users, whether individual or large scale.
